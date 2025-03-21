@@ -3,7 +3,7 @@
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Inspiration](#inspiration)
+- [Inspirational](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
 - [Challenges We Faced](#challenges-we-faced)
